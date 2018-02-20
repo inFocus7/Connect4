@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\fabia\desktop\computer science\projects\c++\hwk5\hwk5\source.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\fabia\desktop\computer science\projects\c++\hwk5\hwk5\source.cpp(32): warning C4101: 'quitGame': unreferenced local variable
+  hwk5.vcxproj -> C:\Users\fabia\Desktop\Computer Science\Projects\C++\hwk5\Debug\hwk5.exe
